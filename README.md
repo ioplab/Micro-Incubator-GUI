@@ -1,12 +1,14 @@
-# Micro Incubator GUI by Arduino and Python
+# Micro Incubator GUI
 
-Make a Micro Incubator by Arduino. Using Python to create GUI.
+Here develop a micro incubator software for Digital Holographic Tomography.
+
+Power by Digital Holography Tech. from IOPLab.
 
 ---
 
 ## Python environment
 
-- Python 3.7.10 (Anaconda3)
+- Python 3 (Anaconda3)
 - pyueye
 - numpy
 - opencv-python
